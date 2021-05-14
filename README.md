@@ -17,9 +17,9 @@ _Stake·Fish_<br>
 
 ### How often does the Bitcoin network see two consecutive blocks mined more than 2 hours apart from each other? We'd like to know your answer (it doesn't have to be precise) and your approach towards this solution using probability and statistics.
 
-**[Link to Solution](https://github.com/joexu22/CodeSnippetsXu/blob/master/BLOCKCHAIN/STAKEFISH/statistic.ipynb)**
+**[Link to Solution](https://github.com/joexu22/StakeFishDemo/blob/master/STAKEFISH/statistic.ipynb)**
 
-**[Link to Full Writeup](https://github.com/joexu22/CodeSnippetsXu/blob/master/BLOCKCHAIN/STAKEFISH/StakeFishQuestions.md)**
+**[Link to Full Writeup](https://github.com/joexu22/StakeFishDemo/blob/master/STAKEFISH/StakeFishQuestions.md)**
 
 ## Question 2
 
@@ -31,9 +31,9 @@ Up to Stack 683310,
 163693 blocks had Time Stamps two hours apart
 ```
 
-**[Link to Code](https://github.com/joexu22/CodeSnippetsXu/tree/master/BLOCKCHAIN/STAKEFISH/blockchain-parser)**
+**[Link to Code](https://github.com/joexu22/StakeFishDemo/tree/master/STAKEFISH/blockchain-parser)**
 
-**[Link to Full Writeup](https://github.com/joexu22/CodeSnippetsXu/blob/master/BLOCKCHAIN/STAKEFISH/StakeFishQuestions.md)**
+**[Link to Full Writeup](https://github.com/joexu22/StakeFishDemo/blob/master/STAKEFISH/StakeFishQuestions.md)**
 
 ## Authors
 
